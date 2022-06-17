@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nono P STUART
 - 👀 I’m interested in .full stack web development 
 - 🌱 I’m currently learning ..java
-- 💞️ I’m looking to collaborate on ...java and c programming related projects
+- 💞️ I’m looking to collaborate on ...java,c programming, React,Php,and AI related projects
 - 📫 How to reach me ...email to stewartnono04@gmail.com
 
 <!---
